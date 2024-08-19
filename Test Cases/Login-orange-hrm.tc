@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-orange-hrm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7bb1bb59-9de3-4ae6-8146-74aedc4f9ba3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cb30320-035d-425d-8ad1-2f93b30f0ba4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec0668ce-8730-4e89-a22d-2b7879de0ae2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>6cb30320-035d-425d-8ad1-2f93b30f0ba4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>ec0668ce-8730-4e89-a22d-2b7879de0ae2</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

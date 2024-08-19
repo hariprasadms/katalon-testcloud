@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>simple_dropdown</name>
+   <tag></tag>
+   <elementGuidId>73eac037-df8a-450d-a685-358e23aaf0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-demo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='select-demo']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'select-demo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f29b641e-4f84-4528-9348-b6a68bc8aaed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select-demo</value>
+      <webElementGuid>834cabd0-82f6-431d-8366-4ad60d788244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='select-demo']</value>
+      <webElementGuid>1bdaa8fd-3b46-4245-b84d-df5d8b2d4d99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

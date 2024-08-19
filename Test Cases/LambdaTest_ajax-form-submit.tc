@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LambdaTest_ajax-form-submit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f78230f-39b6-4308-b893-8d6277c15cc6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1da8ec59-74de-4803-9acb-a733bbd8cb43</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>918fc27d-8c35-4782-a26c-30cfa4da8c34</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test name'</defaultValue>
+      <description></description>
+      <id>1da8ec59-74de-4803-9acb-a733bbd8cb43</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test description'</defaultValue>
+      <description></description>
+      <id>918fc27d-8c35-4782-a26c-30cfa4da8c34</id>
+      <masked>false</masked>
+      <name>desc</name>
+   </variable>
+</TestCaseEntity>

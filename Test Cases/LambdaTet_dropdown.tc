@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LambdaTet_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97546cbd-a4ac-4cf6-ba31-022d5d133661</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2e47566-c3de-4ac0-8691-ec6976529950</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>b2e47566-c3de-4ac0-8691-ec6976529950</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

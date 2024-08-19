@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ajax Request is Processing</name>
+   <tag></tag>
+   <elementGuidId>5f5e33dd-47e4-42fc-92e5-06512b8e97e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submit-control']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submit-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61a6f282-e71f-4867-8cee-3518ead1a247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit-control</value>
+      <webElementGuid>53a9f2a6-80a6-4c40-95ae-2da8dc32c3f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Ajax Request is Processing!</value>
+      <webElementGuid>ae91a179-8b24-47c1-bf13-42e15206432e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit-control&quot;)</value>
+      <webElementGuid>17385da2-cf46-4aa9-a67c-453a06b68d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='submit-control']</value>
+      <webElementGuid>03e11277-2cdb-4b7e-ac71-342f19992316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frm']/div[3]</value>
+      <webElementGuid>0dba3406-37ec-46e8-a906-4755343190f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message:'])[1]/following::div[1]</value>
+      <webElementGuid>54e70a8e-9ac0-474a-87ea-b5db9fab98bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name:'])[1]/following::div[2]</value>
+      <webElementGuid>dcaae49b-3391-4fef-85a5-f29fe8e02b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products &amp; Features'])[1]/preceding::div[1]</value>
+      <webElementGuid>07e6f2e7-01b0-4f5d-ba58-2d709ea3f841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Cloud'])[2]/preceding::div[2]</value>
+      <webElementGuid>022317d2-46b5-4f03-b486-e87de31cea2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ajax Request is Processing!']/parent::*</value>
+      <webElementGuid>7b908a26-a9fa-4775-8745-faaae4e3f6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/form/div[3]</value>
+      <webElementGuid>d8b56a40-a829-4696-b4a2-ae5b87ae570f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'submit-control' and (text() = '  Ajax Request is Processing!' or . = '  Ajax Request is Processing!')]</value>
+      <webElementGuid>7fc09f50-9099-4a9c-a14d-bdb24892b99c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

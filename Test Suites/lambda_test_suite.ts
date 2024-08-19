@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>lambda_test_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0764bd77-9155-4949-a296-a50083cd5da8</testSuiteGuid>
+   <testCaseLink>
+      <guid>8a72d6a7-0f42-4b99-99da-6799bc685f09</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LambdaTet_dropdown</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>00ba2a2b-12be-498b-94b1-24a6884ed675</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dropdown</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>00ba2a2b-12be-498b-94b1-24a6884ed675</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>index</value>
+         <variableId>b2e47566-c3de-4ac0-8691-ec6976529950</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f32a3b4f-56d5-4d5f-9578-5b2561927ede</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LambdaTest_ajax-form-submit</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>37b0a9a1-627c-4d12-9533-2c6a987d24c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ajax_form_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>37b0a9a1-627c-4d12-9533-2c6a987d24c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>1da8ec59-74de-4803-9acb-a733bbd8cb43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>37b0a9a1-627c-4d12-9533-2c6a987d24c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>desc</value>
+         <variableId>918fc27d-8c35-4782-a26c-30cfa4da8c34</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b75dab25-0de5-4756-9a32-f6f90bd665cb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LambdaTest_auto-healing</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99d9ba54-52f2-46e8-8d01-97184f4ca38a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>548c03c0-94db-485b-b5f5-c01023c0e1a7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9336d622-376b-4624-ae5e-64ddfb4bcf9e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LambdaTest-checkbox</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

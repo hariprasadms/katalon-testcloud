@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>excel-check-point</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>/Users/hariprasadms/Katalon Studio/bdd-sample-test/External_data/names.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-08-17T20:13:53.959+01:00</taken-date>
+   <column-names>
+      <column-name>names</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Name1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name2",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name3",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name4",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name5",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name6",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name7",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name8",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name9",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name10",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name11",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name12",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name13",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name14",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name15",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name16",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name17",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name18",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name19",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name20",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name21",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name22",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name23",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name24",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name25",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name26",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Name27",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
