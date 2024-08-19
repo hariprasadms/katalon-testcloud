@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.lambdatest.com/selenium-playground/checkbox-demo')
+WebUI.openBrowser(GlobalVariable.app_url)
 
 WebUI.click(findTestObject('Object Repository/LambdaTest-PlayGround/checkbox/checbox_Single Checkbox Demo'))
 
